@@ -181,6 +181,7 @@ li{
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4300fe', endColorstr='#000000',GradientType=0 );
   transition: ease-in-out .5s;
   transform: translate(0);
+  z-index: 35;
 } 
 .sidebar-menu ul{
   margin: 50px;
